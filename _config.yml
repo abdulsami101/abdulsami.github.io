@@ -13,7 +13,7 @@ name                     : &name "Sami Abdul"
 description              : &description "Researcher at System Software Lab"
 url                      : https://abdulsami101.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "abdulsami101/sami-portfolio.github.io"
+repository               : 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "abdulsami101"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
