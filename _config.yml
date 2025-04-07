@@ -13,7 +13,7 @@ title                    : "Sami Abdul"
 title_separator          : "-"
 name                     : &name "Sami Abdul "
 description              : &description "Research Assistant at System Software Lab"
-url                      : https://abdulsami101.github.io # the base hostname & protocol for your site e.g. "https://abdulsami101.github.io"
+url                      :
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
