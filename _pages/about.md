@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# 👋 Hi, I'm Sami Abdul
+# 👋 Hi, I'm Abdul Sami
 
 [Education](#education) |
 [Research Interests](#research) |
