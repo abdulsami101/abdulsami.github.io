@@ -27,15 +27,15 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Researcher at System Software Lab"
   location         : "Seoul, South Korea"
-  employer         : "Soongsil University"
-  uri              : # URL
-  email            : "none@example.org" 
+  employer         : "System Software Lab (Soongsil University)"
+  uri              : https://ss.ssu.ac.kr/
+  email            : "sami@soongsil.ac.kr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=YSI0Su4AAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
