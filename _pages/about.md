@@ -30,7 +30,7 @@ I am a dedicated Machine Learning researcher with a focus on generative models, 
   - Final Year Project: Handwritten Text Recognition using Deep CNNs  
 - Scholarship holder at Soongsil University for academic excellence
 
-[Back to Top](#-hi-im-sami-abdul)
+[Back to Top](#-hi-im-abdul-sami)
 
 <a name="research"></a>
 ## 🔬 Research Interests
@@ -42,7 +42,7 @@ I am a dedicated Machine Learning researcher with a focus on generative models, 
 - Computer Vision & Deep Learning
 - Phonetic Feature Embeddings
 
-[Back to Top](#-hi-im-sami-abdul)
+[Back to Top](#-hi-im-abdul-sami)
 
 <a name="publications"></a>
 ## 📚 Projects & Publications
@@ -59,7 +59,7 @@ _Initial defense submitted at Soongsil University, 2025_
 - Training diffusion models for unseen styles using just a few samples  
 - Vector fusion techniques to blend handwritten + printed aesthetics
 
-[Back to Top](#-hi-im-sami-abdul)
+[Back to Top](#-hi-im-abdul-sami)
 
 <a name="skills"></a>
 ## 💻 Technical Skills
@@ -71,7 +71,7 @@ _Initial defense submitted at Soongsil University, 2025_
 - **Data Tools:** Pandas, Matplotlib, Jupyter, Weights & Biases
 - **Other Tools:** Git, Docker, Linux, LaTeX
 
-[Back to Top](#-hi-im-sami-abdul)
+[Back to Top](#-hi-im-abdul-sami)
 
 <a name="teaching"></a>
 ## 🧑‍🏫 Teaching & Talks
@@ -80,17 +80,17 @@ _Initial defense submitted at Soongsil University, 2025_
 - Teaching Assistant – *"Deep Learning Programming"*, Soongsil University, Fall 2023  
 - Presenter – *"Font Generation using AI"*, Internal Lab Meeting, 2024  
 
-[Back to Top](#-hi-im-sami-abdul)
+[Back to Top](#-hi-im-abdul-sami)
 
 <a name="contact"></a>
 ## 🔗 Get in Touch
 
-- 📧 Email: samiabdulml@gmail.com
-- 🌐 Portfolio: [samiabdul.github.io](https://samiabdul.github.io) *(Coming Soon)*
+- 📧 Email: sami@soongsil.ac.kr.com
+- 🌐 Portfolio: [abdulsami101.github.io](https://abdulsami101.github.io) *(Coming Soon)*
 - 📍 Based in Seoul, South Korea
 - 💼 Open to PhD opportunities in Europe (Fall 2025)
 
-[Back to Top](#-hi-im-sami-abdul)
+[Back to Top](#-hi-im-abdul-sami)
 
 ---
 
