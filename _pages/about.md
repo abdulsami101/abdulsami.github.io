@@ -2,6 +2,7 @@
 layout: splash
 title: "Hi, I'm Abdul Sami"
 header:
+  author_profile: true
   overlay_image: /images/hero_background.jpg
   overlay_filter: 0.3
   caption: "Machine Learning Researcher | Generative Models | Computer Vision"
