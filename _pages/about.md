@@ -1,17 +1,11 @@
 ---
-layout: splash
-title: "Hi, I'm Abdul Sami"
-header:
-  author_profile: true
-  overlay_image: /images/hero_background.jpg
-  overlay_filter: 0.3
-  caption: "Machine Learning Researcher | Generative Models | Computer Vision"
-  actions:
-    - label: "View My Work"
-      url: "/portfolio/"
-    - label: "Download CV"
-      url: "/files/CV_Sami.pdf"
 permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
 ---
 
 # 👋 Hi, I'm Abdul Sami
