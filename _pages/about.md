@@ -8,14 +8,7 @@ redirect_from:
   - /about.html
 ---
 
----
-layout: splash
-title: "Welcome to My Portfolio"
-header:
-  overlay_image: /assets/images/hero.jpg
-  overlay_filter: 0.5
-  caption: "Exploring the Frontiers of AI and Font Generation"
----&#8203;:contentReference[oaicite:14]{index=14}
+
 
 # 👋 Hi, I'm Abdul Sami
 
